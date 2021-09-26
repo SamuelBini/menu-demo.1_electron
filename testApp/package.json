@@ -1,0 +1,14 @@
+{
+    "name": "GestMoy",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^3.0.10"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "mongojs": "^2.6.0"
+    }
+}

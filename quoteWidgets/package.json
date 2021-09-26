@@ -1,0 +1,14 @@
+{
+    "name": "quote-widget",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^3.0.10"
+    },
+    "dependencies": {
+        "request": "^2.88.0"
+    }
+}

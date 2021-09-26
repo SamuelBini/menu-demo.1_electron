@@ -1,0 +1,16 @@
+body{
+    background-color: #35073f;
+    color: #e9d6eb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 5px;
+    -webkit-app-region: drag;
+
+}
+
+#auteur{
+    font-style: oblique;
+    text-align: right;
+}

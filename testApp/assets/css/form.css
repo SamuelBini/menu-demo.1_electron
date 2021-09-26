@@ -1,0 +1,15 @@
+.formTable input[type=text] {
+    background-color: transparent;
+    color: bisque;
+    border: none;
+    outline: none;
+    height: 3rem;
+    width: 100%;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;  
+}
+
+.formTable td {
+    padding: 0 5px;
+}

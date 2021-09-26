@@ -1,0 +1,22 @@
+{
+  "name": "deskapp",
+  "version": "1.0.0",
+  "description": "My test app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MyFirstElectronApp"
+  },
+  "keywords": [
+    "application"
+  ],
+  "author": "Samuel BINI <sammyb.bini@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.12",
+    "knex": "^0.19.5"
+  }
+}
